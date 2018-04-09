@@ -8,5 +8,6 @@ var adjective = getText("text_input5")
 setText("text_area1", "Hi " + noun1 + ". I love you! I especially like " + pronoun + "! " + noun2 + " Is so nice to me. " + pronoun + " looks " + adjective + "! I'm gonna " + verb + " now, bye!")
 });
 onEvent("trybutton", "click", function(event) {
- setScreen("filler")
+ setScreen("filler"
 });
+dicl
